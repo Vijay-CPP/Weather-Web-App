@@ -58,5 +58,5 @@ app.listen(port, () => {
 })
 
 setInterval(function () {
-    https.get("http://weather-app-vijay-cpp.herokuapp.com");
+    https.get("https://weather-app-vijay-cpp.herokuapp.com");
 }, 300000); // every 5 minutes (300000)
