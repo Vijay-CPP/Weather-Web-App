@@ -11,6 +11,7 @@ source OpenWeather API
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/74971365/178118789-4b9d6453-3510-44a9-a6bf-1c01363b346b.png)
+
 ![image](https://user-images.githubusercontent.com/74971365/178118793-16e04d0d-93ff-4531-9db0-7ae44c3e967b.png)
 
 
