@@ -57,6 +57,6 @@ app.listen(port, () => {
     console.log("Listening to port 3000");
 })
 
-setInterval(function () {
-    https.get("https://weather-app-vijay-cpp.herokuapp.com");
-}, 300000); // every 5 minutes (300000)
+// setInterval(function () {
+//     https.get("https://weather-app-vijay-cpp.herokuapp.com");
+// }, 300000); // every 5 minutes (300000)
